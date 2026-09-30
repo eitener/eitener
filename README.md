@@ -6,7 +6,7 @@ I build agent applications that connect models to useful tools, enforce access i
 
 Most of my work is in Python, SQL, and AWS, including Bedrock and Redshift. I also work with Java, JavaScript, LangGraph, Docker, Kubernetes, ClickHouse, and Metabase, with LangSmith for production observability.
 
-- [Analytics agent gateway](https://github.com/eitener/analytics-agent-gateway): a small runnable demo with synthetic supply-chain data, governed tools, role checks, and an audit trail. Built independently for this portfolio.
+- [Analytics agent gateway](https://github.com/eitener/analytics-agent-gateway): a runnable demo with synthetic supply-chain data, governed tools, role checks, and an audit trail.
 - [Maethrillian](https://github.com/eitener/maethrillian): game mod work.
 
 [LinkedIn](https://www.linkedin.com/in/justin-e-3b2071ba/)
